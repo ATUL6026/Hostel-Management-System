@@ -25,5 +25,5 @@ This project is made using PHP and it is used to manage all the information abou
 HTML, CSS, JavaScript, PHP, DBMS, SQL.
 
 # Result-Images:
-[HMS Final Screenshorts.pdf](https://github.com/ATUL6026/Hostel-Management-System/files/11999818/HMS.Final.Screenshorts.pdf)
+[HMS.Final.Screenshorts.pdf](https://github.com/atulbansal82/Hostel-Management-System/files/12003670/HMS.Final.Screenshorts.pdf)
 
