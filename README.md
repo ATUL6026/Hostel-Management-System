@@ -18,5 +18,5 @@ This project is made using PHP and it is used to manage all the information abou
 12. Admin can update mess menu and mess bills of all the hostels.
 
 # Use Case Diagram:
-![Screenshot (79)](https://github.com/ATUL6026/Hostel-Management-System/assets/96112121/2ea3e563-ddc2-405d-838f-ac7306ee2600)
-![Screenshot (78)](https://github.com/ATUL6026/Hostel-Management-System/assets/96112121/aa9ef2f8-0dd5-443b-94a9-eef059a13751)
+![Screenshot (79)](https://github.com/ATUL6026/Hostel-Management-System/assets/96112121/987b4e66-11a2-47de-bae0-95bff952c7b4)
+![Screenshot (78)](https://github.com/ATUL6026/Hostel-Management-System/assets/96112121/c41b7b60-bcaa-47b1-8811-62e82736cb6f)
